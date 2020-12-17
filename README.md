@@ -19,9 +19,9 @@ I've seen many functions that compare two words and return their status as an an
 
 To run on the command line:<br>
 javac CreateHashMap.java<br>
-touch hashmap
-java CreateHashMap > hashmap
-javac Anagram.java
+touch hashmap<br>
+java CreateHashMap > hashmap<br>
+javac Anagram.java<br>
 java Anagram <i>jumbledWord,</i>
 
    
